@@ -1,0 +1,385 @@
+@media (max-width:1310px) {
+    .remove {
+        display: none;
+    }
+}
+
+@media (max-width:1100px) {
+
+    .menu-icon {
+        display: inline;
+        color: white;
+    }
+
+    .nav-ul {
+        display: none;
+    }
+
+    .navbar {
+        height: 80px;
+    }
+
+    .st-nav {
+        height: 650px;
+    }
+
+    .about-main {
+        height: 580px;
+    }
+
+    .need {
+        font-size: 30px;
+    }
+
+    .aut {
+        font-size: 16px;
+    }
+
+    .text1 p {
+        font-size: 16px;
+    }
+
+    .work-button {
+        font-size: 16px;
+        height: 36px;
+    }
+
+}
+
+@media (max-width:1000px) {
+    .need {
+        font-size: 26px;
+    }
+
+    .navbar {
+        height: 70px;
+    }
+
+    .lap {
+        display: none;
+    }
+
+}
+
+@media (max-width:870px) {
+    .tab {
+        display: none;
+    }
+
+    .about-box1 {
+        background-image: url(images/jai-bg2.jpg);
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        mix-blend-mode: multiply;
+    }
+
+    .col-about {
+        padding-left: 20px;
+    }
+
+    .col-about2 {
+        padding-right: 20px;
+    }
+
+    .book2 h2 {
+        font-size: 28px;
+    }
+
+    .touch-main h3 {
+        font-size: 28px;
+    }
+
+    .about-contact {
+        margin: 18px;
+    }
+
+    .media-icons {
+        height: 35px;
+        width: 35px;
+    }
+
+    .touch {
+        height: 180px;
+    }
+}
+
+@media (max-width:700px) {
+    .menu-icon {
+        color: rgb(31, 31, 31);
+    }
+
+    .st-nav {
+        background-position: left;
+    }
+
+    .mobile {
+        display: none;
+    }
+
+    .jai {
+        font-size: 80px;
+    }
+
+    .art {
+        font-size: 80px;
+    }
+
+    .col1 {
+        height: 190px;
+    }
+
+    .col-img1 {
+        width: 140px;
+    }
+
+    .col2 {
+        height: 190px;
+    }
+
+    .col-img2 {
+        width: 140px;
+    }
+
+    .col3 {
+        height: 190px;
+    }
+
+    .col-img3 {
+        width: 140px;
+    }
+
+    .col-img4 {
+        width: 140px;
+    }
+
+    .col-img5 {
+        width: 140px;
+    }
+
+    .col-img6 {
+        width: 140px;
+    }
+
+    .col-img7 {
+        width: 140px;
+    }
+
+    .col-img8 {
+        width: 140px;
+    }
+
+    .col-img9 {
+        width: 140px;
+    }
+
+    .about-main {
+        height: 485px;
+    }
+
+    .heading {
+        height: 70px;
+    }
+
+    .heading-h2 {
+        font-weight: 400;
+        font-size: 23px;
+    }
+
+    .col-about h1 {
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .col-about2 h1 {
+        font-size: 15px;
+        font-weight: 600;
+
+    }
+
+    .col-about h3 {
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .col-about2 h3 {
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .col-about p {
+        font-size: 13px;
+        font-weight: 300;
+    }
+
+    .col-about2 p {
+        font-size: 13px;
+        font-weight: 300;
+    }
+
+    #collection {
+        height: 850px;
+    }
+
+    #book {
+        height: 692px;
+    }
+
+}
+
+@media (max-width:485px) {
+    #about {
+        background-color: rgb(255, 253, 242);
+    }
+
+    .gal-img1 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img2 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img3 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img4 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img5 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img6 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img7 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img8 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img9 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img10 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img11 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img12 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .gal-img13 {
+        height: 177px;
+        width: 127px;
+    }
+
+    .media-icons {
+        height: 25px;
+        width: 25px;
+    }
+
+    .touch {
+        height: 144px;
+    }
+
+    .footer1 {
+        height: 257px;
+    }
+
+    .f-about p {
+        font-size: 14px;
+    }
+
+    .f-about a {
+        font-size: 14px;
+    }
+
+    .f-padding {
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    .footer2 {
+        padding-inline: 20px;
+    }
+
+    .logo-f {
+        height: 61px;
+        width: 110px;
+    }
+
+    .f-contact>h3:nth-child(1) {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    .text1 {
+        margin-top: 60px;
+        text-align: center;
+    }
+
+    .work-button {
+        margin-left: 0;
+    }
+
+    .jai {
+        font-size: 60px;
+        margin-top: 85px;
+        margin-bottom: 12px;
+        margin-left: 30px;
+    }
+
+    .art {
+        font-size: 60px;
+        margin-left: 15px;
+        margin-top: 85px;
+    }
+
+    .need {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .aut {
+        font-size: 14px;
+        font-weight: 500;
+        padding-right: 15%;
+        padding-top: 10px;
+    }
+
+    .text1 p {
+        font-size: 14px;
+        font-weight: 500;
+        padding-right: 15px;
+        padding-top: 10px;
+        padding-left: 15px;
+    }
+    .st-nav{
+        /* background-image: url(images/bg-cleo.jpg); */
+        /* background-position: center; */
+    }
+}
